@@ -1,0 +1,6 @@
+{
+  "name": "AI Future — Sun’iy Intellekt Olami",
+  "description": "Sun’iy intellekt imkoniyatlari, zamonaviy AI vositalari va interaktiv o‘zbekcha AI yordamchisi taqdim etilgan zamonaviy platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
